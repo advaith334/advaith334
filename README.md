@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Advaith Karthikeyan
+# Hi, I'm Advaith Karthikeyan
 
-I’m an engineering student and tech enthusiast passionate about robotics, AI, and global impact. Currently working at the intersection of software, systems thinking, and sustainability.
+I am a junior at the National University of Singapore (NUS), more specifically NUS College (NUSC), studying Industrial and Systems Engineering (ISE) and Innovation and Design (iDP). I’m interested in operations research, IIoT, and entrepreneurship! 
 
 ---
 
@@ -54,7 +54,7 @@ Worked with Dr. Betina Szkudlarek on international management and refugee workpl
 
 **Clubs & Competitions:**  
 NUSCares • ISE Club (VPD) • Effective Altruism NUS • NUSC Invests •  
-ISE BACC Emcee • SGFIN-Fidelity Finalist • CatalystxAI Participant
+ISE BACC Emcee • SGFIN-Fidelity • CatalystxAI
 
 ---
 
@@ -78,13 +78,14 @@ Interdisciplinary coursework and global experiences:
 
 - 🥇 *Best Overall Hack* — **HackPrinceton** (Built SixthSense: assistive tech for the visually impaired)  
 - 🥈 *Second Place* — **HackDartmouth** (Built Neurolytics: AI-powered MRI diagnostic tool)
+- 👨🏻‍🎓 *NUS College International Merit Scholar (full-ride)
 
 ---
 
 ## 📫 Get in Touch
 
-📧 [advaith.karthikeyan@u.nus.edu](mailto:advaith.karthikeyan@u.nus.edu)  
-🌐 [LinkedIn](https://www.linkedin.com/in/advaith-karthikeyan/)  
-🔗 [Devpost](https://devpost.com/advaithkarthikeyan)
+📧 [advaith.karthikeyan@u.nus.edu](mailto:advaith@u.nus.edu)
+🌐 [LinkedIn](https://www.linkedin.com/in/advaithkarthikeyan/)  
+🔗 [Devpost](https://devpost.com/advaith117?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ---
