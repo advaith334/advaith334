@@ -78,7 +78,7 @@ Interdisciplinary coursework and global experiences:
 
 - 🥇 *Best Overall Hack* — **HackPrinceton** (Built SixthSense: assistive tech for the visually impaired)  
 - 🥈 *Second Place* — **HackDartmouth** (Built Neurolytics: AI-powered MRI diagnostic tool)
-- 👨🏻‍🎓 *NUS College International Merit Scholar (full-ride)
+- 👨🏻‍🎓 *NUS College International Merit Scholar* (full-ride)
 
 ---
 
