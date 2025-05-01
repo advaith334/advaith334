@@ -22,7 +22,7 @@ Working on robot autonomy and sensor integration for precision agriculture.
 
 ### 📫 Get in Touch
 
-📧 [advaith.karthikeyan@u.nus.edu](mailto:advaith@u.nus.edu)  
+📧 [advaith@u.nus.edu](mailto:advaith@u.nus.edu)  
 🌐 [LinkedIn](https://www.linkedin.com/in/advaithkarthikeyan/)  
 🔗 [Devpost](https://devpost.com/advaith117?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
