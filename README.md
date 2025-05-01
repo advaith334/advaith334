@@ -1,7 +1,5 @@
 # Hi, I'm Advaith Karthikeyan
 
-I am a junior at the National University of Singapore (NUS), more specifically NUS College (NUSC), studying Industrial and Systems Engineering (ISE) and Innovation and Design (iDP). I’m interested in operations research, IIoT, and entrepreneurship! 
-
 ---
 
 ### Currently a **Software Specialist** at **Upside Robotics**
