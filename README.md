@@ -11,8 +11,6 @@ Working on robot autonomy and sensor integration for precision agriculture.
 
 ---
 
-## 🎓 Education
-
 ### 🎓 **National University of Singapore (NUS)**  
 **BEng in Industrial & Systems Engineering**  
 *Second Major in Innovation & Design (iDP)*  
