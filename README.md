@@ -1,14 +1,5 @@
 # Hi, I'm Advaith Karthikeyan
 
----
-
-### **Upside Robotics**
-**Software Specialist**
-
-📍 Waterloo, Ontario, Canada | 🗓️ Jan 2025 – Present  
-
----
-
 ### 🎓 **National University of Singapore (NUS)**  
 **BEng in Industrial & Systems Engineering**  
 *Second Major in Innovation & Design (iDP)*  
