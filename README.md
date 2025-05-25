@@ -2,7 +2,7 @@
 
 ---
 
-### Currently a **Software Specialist** at **Upside Robotics**
+### **Software Specialist** at **Upside Robotics**
 📍 Waterloo, Ontario, Canada | 🗓️ Jan 2025 – Present  
 
 ---
