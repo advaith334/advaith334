@@ -3,7 +3,7 @@
 ---
 
 ### **Upside Robotics**
-**Software Specialist
+**Software Specialist**
 📍 Waterloo, Ontario, Canada | 🗓️ Jan 2025 – Present  
 
 ---
