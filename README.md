@@ -4,6 +4,7 @@
 
 ### **Upside Robotics**
 **Software Specialist**
+
 📍 Waterloo, Ontario, Canada | 🗓️ Jan 2025 – Present  
 
 ---
@@ -11,6 +12,7 @@
 ### 🎓 **National University of Singapore (NUS)**  
 **BEng in Industrial & Systems Engineering**  
 *Second Major in Innovation & Design (iDP)*  
+
 📍 Aug 2022 – May 2026  
 - NUSC (Honours College combining Yale-NUS & University Scholars Programme) International Scholar
 - GEx New York (Visiting Student @ Barnard College, Columbia University)
