@@ -1,4 +1,4 @@
-# Hi, I'm Advaith Karthikeyan
+# Advaith Karthikeyan
 
 ### 🎓 **National University of Singapore (NUS)**  
 **BEng in Industrial & Systems Engineering**  
