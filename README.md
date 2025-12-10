@@ -12,7 +12,5 @@
 - NUS iSP at the University of Sydney (USYD)
 
 ---
-**📍San Francisco**
----
 
 [![GitHub Activity Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advaith334&theme=github_dark)](https://github.com/advaith334)
