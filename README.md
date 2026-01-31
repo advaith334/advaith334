@@ -4,7 +4,7 @@
 **BEng in Industrial & Systems Engineering**  
 *Second Major in Innovation & Design (iDP)*  
 
-📍 Aug 2022 – May 2026  
+📍 Aug 2022 – Dec 2026  
 - NUSC (Honours College — Yale-NUS + University Scholars Programme) International Scholar
 - GEx New York (Visiting Student at Barnard College, Columbia University)
 - NOC Toronto-Waterloo Programme 2025 (Exchange at the University of Toronto + Co-op)
